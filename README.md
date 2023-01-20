@@ -5,8 +5,7 @@ This repository including three notebooks:
 You could find them in notebook directory
 
 
-in main folder, there is an api made by fast api, and I was about to make a dockerfile and run it in a container in gcp.
-However it was not part of challenge, but I liked to make an api and use it during presentation. The api works.
+In the 'main' folder, an api made by fastapi could give us prediction from trained model. Also some prepration for docker file and making container in gcp.
 
 
 
